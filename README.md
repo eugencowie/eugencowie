@@ -50,14 +50,3 @@ Nix configurations for my machines (NixOS, Darwin, WSL).
 ### [homelab](https://github.com/eugencowie/homelab)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="24" alt="Ansible" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="24" alt="Docker" />
-
-<!-- Connect -->
-
-<h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/headings/connect.dark.svg">
-    <img src="assets/headings/connect.light.svg" alt="Connect" />
-  </picture>
-</h2>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="16" /> [Reach out to me on LinkedIn](https://www.linkedin.com/in/eugencowie/)
